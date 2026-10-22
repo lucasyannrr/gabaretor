@@ -1,17 +1,9 @@
-# gabaretor
+# Gabaretor
 
-A new Flutter project.
+Answer key scanning app to provide speed and simplicity, completely FREE, with no monetization.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app was made as a substitute for other paid options of answer key scanning apps, that is completely free and private. All your data stays offline, in device. More features, like synchronization and exports will be later added.
+Everything is built the simplest way possible: you can create your classes if you'd like to attach grades to students and monitor a classes' scores, and later create answer keys (or "tests", as they're called here). Then, you can just scan the grades automatically: just point and voilá.
+The scanning is unreliable at poor lighting conditions and can deviate in some instances. That's why we recommend you always check the results returned by the app and use your torchlight for illumination (if possible).
