@@ -1,0 +1,137 @@
+{
+    "@@locale": "en",
+    "tests": "Tests",
+    "stats": "Stats",
+    "classes": "Classes",
+    "settings": "Settings",
+    "noCamerasFound": "No camera found on the device.",
+    "name": "Name",
+    "theme": "Theme",
+    "language": "Language",
+    "system": "System",
+    "lightMode": "Light",
+    "darkMode": "Dark",
+    "alignAnswerKey": "Align the answer key",
+    "newClass": "New class",
+    "className": "Class name",
+    "renameClass": "Rename class",
+    "deleteClass": "Delete class",
+    "deleteClassConfirm": "This removes the class \"{name}\" and all of its students.",
+    "@deleteClassConfirm": {
+        "placeholders": {
+            "name": { "type": "String" }
+        }
+    },
+    "addStudent": "Add student",
+    "studentName": "Student name",
+    "studentExists": "This student is already in the class",
+    "renameStudent": "Rename student",
+    "deleteStudent": "Delete student",
+    "deleteStudentConfirm": "Remove \"{name}\" from this class?",
+    "@deleteStudentConfirm": {
+        "placeholders": {
+            "name": { "type": "String" }
+        }
+    },
+    "studentCount": "{count, plural, =0{0 students} one{{count} student} other{{count} students}}",
+    "@studentCount": {
+        "placeholders": {
+            "count": { "type": "int" }
+        }
+    },
+    "noClasses": "No classes yet.\nTap + to create one.",
+    "noStudents": "No students yet",
+    "classExists": "A class with this name already exists",
+    "deleteTest": "Delete test",
+    "deleteTestConfirm": "This removes the test \"{name}\" and all of its results.",
+    "@deleteTestConfirm": {
+        "placeholders": {
+            "name": { "type": "String" }
+        }
+    },
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "save": "Save",
+    "edit": "Edit",
+    "rename": "Rename",
+    "open": "Open",
+    "fieldEmpty": "This field cannot be empty",
+    "testExists": "A test with this name already exists",
+    "numberOfQuestions": "Number of questions",
+    "numberOfOptions": "Number of options",
+    "numberBoxTitle": "Number box title",
+    "numberBoxDigits": "Number box digit amount",
+    "minOne": "Number has to be 1 or more",
+    "maxTen": "Number has to be 10 or less",
+    "optionBoxTitle": "Class box title",
+    "optionBoxOptions": "Classes in the box",
+    "classOptionsHint": "Type up to 5 classes. Existing classes are suggested as you type.",
+    "newTest": "New test",
+    "saveTest": "Save test",
+    "openGallery": "Open gallery",
+    "classLabel": "Class",
+    "average": "Average",
+    "highestScore": "Highest Score",
+    "lowestScore": "Lowest Score",
+    "criticalAnalysis": "Critical Analysis per Question",
+    "mostCorrectTitle": "Question {number} (Most correct)",
+    "@mostCorrectTitle": {
+        "placeholders": {
+            "number": { "type": "String" }
+        }
+    },
+    "mostWrongTitle": "Question {number} (Most wrong)",
+    "@mostWrongTitle": {
+        "placeholders": {
+            "number": { "type": "String" }
+        }
+    },
+    "classPercentTotal": "{percent}% of the class",
+    "@classPercentTotal": {
+        "placeholders": {
+            "percent": { "type": "String" }
+        }
+    },
+    "asPng": "as .png",
+    "asPdf": "as .pdf",
+    "foundResults": "Results found",
+    "studentNumber": "Number",
+    "markedOption": "Marked option",
+    "scoreLabel": "Score",
+    "notAvailable": "N/A",
+    "numberUncertain": "Unreadable number - review the values",
+    "editValues": "Edit values",
+    "yes": "Yes",
+    "no": "No",
+    "numberWritten": "Number (written)",
+    "cameraInitError": "Could not start the camera.",
+    "back": "Back",
+    "flashUnavailable": "Flashlight unavailable on this device.",
+    "readImageError": "Failed to read the image: {error}",
+    "@readImageError": {
+        "placeholders": {
+            "error": { "type": "String" }
+        }
+    },
+    "captureError": "Failed to capture: {error}",
+    "@captureError": {
+        "placeholders": {
+            "error": { "type": "String" }
+        }
+    },
+    "alignedReady": "Aligned! Processing...",
+    "adjustSheet": "Adjust the sheet",
+    "linkedStudent": "Student: {name}",
+    "@linkedStudent": {
+        "placeholders": {
+            "name": { "type": "String" }
+        }
+    },
+    "linkedClass": "Class: {name}",
+    "@linkedClass": {
+        "placeholders": {
+            "name": { "type": "String" }
+        }
+    },
+    "notLinked": "No class linked"
+}

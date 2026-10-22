@@ -1,0 +1,137 @@
+{
+    "@@locale": "pt",
+    "tests": "Provas",
+    "stats": "Estatísticas",
+    "classes": "Turmas",
+    "settings": "Configurações",
+    "noCamerasFound": "Nenhuma câmera achada no dispostivo.",
+    "name": "Nome",
+    "theme": "Tema",
+    "language": "Língua",
+    "system": "Sistema",
+    "lightMode": "Claro",
+    "darkMode": "Escuro",
+    "alignAnswerKey": "Alinhe o gabarito",
+    "newClass": "Nova turma",
+    "className": "Nome da turma",
+    "renameClass": "Renomear turma",
+    "deleteClass": "Excluir turma",
+    "deleteClassConfirm": "Isso remove a turma \"{name}\" e todos os seus alunos.",
+    "@deleteClassConfirm": {
+        "placeholders": {
+            "name": { "type": "String" }
+        }
+    },
+    "addStudent": "Adicionar aluno",
+    "studentName": "Nome do aluno",
+    "studentExists": "Este aluno já está na turma",
+    "renameStudent": "Renomear aluno",
+    "deleteStudent": "Excluir aluno",
+    "deleteStudentConfirm": "Remover \"{name}\" desta turma?",
+    "@deleteStudentConfirm": {
+        "placeholders": {
+            "name": { "type": "String" }
+        }
+    },
+    "studentCount": "{count, plural, =0{0 alunos} one{{count} aluno} other{{count} alunos}}",
+    "@studentCount": {
+        "placeholders": {
+            "count": { "type": "int" }
+        }
+    },
+    "noClasses": "Nenhuma turma ainda.\nToque em + para criar uma.",
+    "noStudents": "Nenhum aluno ainda",
+    "classExists": "Já existe uma turma com esse nome",
+    "deleteTest": "Excluir prova",
+    "deleteTestConfirm": "Isso remove a prova \"{name}\" e todos os seus resultados.",
+    "@deleteTestConfirm": {
+        "placeholders": {
+            "name": { "type": "String" }
+        }
+    },
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "save": "Salvar",
+    "edit": "Editar",
+    "rename": "Renomear",
+    "open": "Abrir",
+    "fieldEmpty": "Este campo não pode ficar vazio",
+    "testExists": "Já existe uma prova com esse nome",
+    "numberOfQuestions": "Número de questões",
+    "numberOfOptions": "Número de opções",
+    "numberBoxTitle": "Título da caixa de número",
+    "numberBoxDigits": "Quantidade de dígitos do número",
+    "minOne": "O número deve ser 1 ou mais",
+    "maxTen": "O número deve ser 10 ou menos",
+    "optionBoxTitle": "Título da caixa de turmas",
+    "optionBoxOptions": "Turmas da caixa",
+    "saveTest": "Salvar prova",
+    "newTest": "Nova prova",
+    "openGallery": "Abrir galeria",
+    "classLabel": "Turma",
+    "classOptionsHint": "Digite até 5 turmas. As turmas existentes são sugeridas enquanto você digita.",
+    "average": "Média",
+    "highestScore": "Maior nota",
+    "lowestScore": "Menor nota",
+    "criticalAnalysis": "Análise crítica por questão",
+    "mostCorrectTitle": "Questão {number} (Mais acertos)",
+    "@mostCorrectTitle": {
+        "placeholders": {
+            "number": { "type": "String" }
+        }
+    },
+    "mostWrongTitle": "Questão {number} (Mais erros)",
+    "@mostWrongTitle": {
+        "placeholders": {
+            "number": { "type": "String" }
+        }
+    },
+    "classPercentTotal": "{percent}% da turma",
+    "@classPercentTotal": {
+        "placeholders": {
+            "percent": { "type": "String" }
+        }
+    },
+    "asPng": "como .png",
+    "asPdf": "como .pdf",
+    "foundResults": "Resultados encontrados",
+    "studentNumber": "Número",
+    "markedOption": "Opção marcada",
+    "scoreLabel": "Nota",
+    "notAvailable": "N/D",
+    "numberUncertain": "Número ilegível - revise os valores",
+    "editValues": "Editar valores",
+    "yes": "Sim",
+    "no": "Não",
+    "numberWritten": "Número (digitado)",
+    "cameraInitError": "Não foi possível iniciar a câmera.",
+    "back": "Voltar",
+    "flashUnavailable": "Lanterna indisponível neste dispositivo.",
+    "readImageError": "Falha ao ler a imagem: {error}",
+    "@readImageError": {
+        "placeholders": {
+            "error": { "type": "String" }
+        }
+    },
+    "captureError": "Falha ao capturar: {error}",
+    "@captureError": {
+        "placeholders": {
+            "error": { "type": "String" }
+        }
+    },
+    "alignedReady": "Alinhado! Processando...",
+    "adjustSheet": "Ajuste a folha",
+    "linkedStudent": "Aluno: {name}",
+    "@linkedStudent": {
+        "placeholders": {
+            "name": { "type": "String" }
+        }
+    },
+    "linkedClass": "Turma: {name}",
+    "@linkedClass": {
+        "placeholders": {
+            "name": { "type": "String" }
+        }
+    },
+    "notLinked": "Sem turma vinculada"
+}
